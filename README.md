@@ -70,20 +70,6 @@ This project performs **customer sentiment analysis** on user reviews of the **i
 
 ---
 
-## 📝 How to Run
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the Jupyter Notebook
-jupyter notebook
-
----
-
 ## 📌 Key Insights
 
 - 📈 70%+ reviews show positive sentiment, reflecting overall customer satisfaction with the iPhone 15 128GB.
@@ -102,6 +88,27 @@ jupyter notebook
 - ✅ Improve delivery and post-purchase service to minimize dissatisfaction due to logistical delays.
 - ✅ Encourage detailed customer reviews for richer sentiment analysis and better understanding of user needs.
 - ✅ Use frequently mentioned positive keywords in product listings to reinforce positive perceptions.
+
+---
+
+## 👨‍💻 Author
+
+**Shekhar Mishra**
+
+---
+
+## 📝 How to Run
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/your-repo-name.git
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the Jupyter Notebook
+jupyter notebook
+```bash
 
 ---
 
