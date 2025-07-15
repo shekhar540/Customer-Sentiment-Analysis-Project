@@ -82,8 +82,29 @@ pip install -r requirements.txt
 # Run the Jupyter Notebook
 jupyter notebook
 
+---
+
+## 📌 Key Insights
+
+- 📈 70%+ reviews show positive sentiment, reflecting overall customer satisfaction with the iPhone 15 128GB.
+- ⭐ Higher star ratings (4 & 5 stars) correlate strongly with positive sentiment polarity.
+- 📷 Camera quality, 💎 display performance, and ⚡ overall speed are the most praised features.
+- 🔋 Battery life, 💰 high pricing, and 🚚 delivery issues are common points in negative reviews.
+- ✍️ Longer reviews tend to convey more detailed sentiments, whether strongly positive or negative.
 
 ---
 
-## Author
-Shekhar Mishra
+## ✅ Recommendations
+
+- ✅ Focus marketing campaigns on camera performance, display quality, and overall user experience to attract new customers.
+- ✅ Address battery-related issues in future updates or models to reduce negative feedback.
+- ✅ Consider pricing strategies or offers to tackle price-related complaints.
+- ✅ Improve delivery and post-purchase service to minimize dissatisfaction due to logistical delays.
+- ✅ Encourage detailed customer reviews for richer sentiment analysis and better understanding of user needs.
+- ✅ Use frequently mentioned positive keywords in product listings to reinforce positive perceptions.
+
+---
+
+## 👨‍💻 Author
+
+**Shekhar Mishra**
