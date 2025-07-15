@@ -108,10 +108,3 @@ pip install -r requirements.txt
 
 # Run the Jupyter Notebook
 jupyter notebook
-```bash
-
----
-
-## 👨‍💻 Author
-
-**Shekhar Mishra**
