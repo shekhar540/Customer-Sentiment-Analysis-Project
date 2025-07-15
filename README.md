@@ -82,5 +82,7 @@ pip install -r requirements.txt
 # Run the Jupyter Notebook
 jupyter notebook
 
+---
+
 ##👨‍💻 Author
 Shekhar Mishra
