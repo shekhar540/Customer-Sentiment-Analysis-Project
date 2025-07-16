@@ -97,7 +97,7 @@ This project performs **customer sentiment analysis** on user reviews of the **i
 
 ---
 
-## 📝 How to Run
+## 🚀 Getting Started
 
 ```bash
 # Clone the repository
