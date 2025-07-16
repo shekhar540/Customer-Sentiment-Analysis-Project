@@ -101,10 +101,6 @@ This project performs **customer sentiment analysis** on user reviews of the **i
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/shekhar540/Customer-Sentiment-Analysis-Project
 
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the Jupyter Notebook
-jupyter notebook
+---
